@@ -1,0 +1,5 @@
+# Local preview screenshots for owner review; keep out of the public repo unless wanted.
+preview/
+.DS_Store
+*.pyc
+__pycache__/

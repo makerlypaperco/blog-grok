@@ -1,0 +1,10 @@
+These font files are copies of Inter (Inter-Medium.ttf, Inter-Bold.ttf)
+and Lexend (Lexend-SemiBold.ttf). Both families are licensed under the
+SIL Open Font License 1.1.
+
+Inter: https://github.com/rsms/inter
+Lexend: https://github.com/googlefonts/lexend
+
+This is not a license for the logo or the written guides.
+The Makerly Paper Co. logo is the owner's mark and is not licensed for
+reuse by third parties.
