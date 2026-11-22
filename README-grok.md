@@ -2,7 +2,10 @@
 
 A plain HTML/CSS guide site for the Grok side of Makerly Paper Co.
 
-**Status:** Owner approved this draft for publish on 22 November 2026 (Asia/Saigon), after a final QA pass. Intended repo and URL below.
+**Status:** Live as of 22 November 2026, 10:22 giờ VN (Asia/Saigon), after the owner approved a final QA pass.
+
+- Repo: https://github.com/makerlypaperco/blog-grok
+- Site: https://makerlypaperco.github.io/blog-grok/
 
 Intended future location, after approval:
 
@@ -76,9 +79,9 @@ Every Gumroad link uses `utm_source=grokblog&utm_medium=blog&utm_campaign=<post-
 
 The Free 2027 Goal Plan Page is live but is not linked in these two guides, so each article stays at one product link.
 
-## Publish only after the owner approves
+## How this was published
 
-Do not run these steps until the owner says yes to this exact draft.
+These steps were run on 22 November 2026 after the owner's approval.
 
 1. On GitHub, signed in as the `makerlypaperco` account, create a new **public** repository named `blog-grok`. Do not add a README, license, or `.gitignore` in the GitHub form (those files already exist here). Do not touch `makerlypaperco/makerlypaperco.github.io`.
 2. On the machine that has this folder, initialize git if needed, add the remote, and push the site files:
